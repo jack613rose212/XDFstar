@@ -1,0 +1,39 @@
+
+Windows下使用教程:
+
+（1）升级到Go1.13
+
+（2）运行<go env -w GO111MODULE=on>                                 //开启mod  on  off  auto
+
+（3）运行<go env -w GOPROXY=https://goproxy.cn,direct>     //设置七牛云goproxy代理
+
+     可以通过运行go env查看（2）、（3）步骤是否设置成功
+
+（4）在项目跟目录下执行go mod init <OPTIONAL_MODULE_PATH>
+
+     执行成功后生成go.mod文件
+
+其他指令:
+     go get -u //更新现有的依赖
+
+     go mod tidy //整理模块（拉取缺少的模块，移除不用的模块）
+
+     go mod download//下载依赖包
+
+     go mod graph //打印现有依赖结构
+
+     go mod vendor //将依赖复制到vendor下
+
+     go mod verify //校验依赖
+
+     go.mod文件解析
+
+     module：模块名称，使用指令go mod init <OPTIONAL_MODULE_PATH>可设置
+
+     require：依赖包列表以及版本
+
+     exclude：禁用依赖包列表
+
+     replace：替换依赖包列表
+
+     go：go版本号
