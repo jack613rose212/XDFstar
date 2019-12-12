@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c267e8c-b644-4aec-bddd-4a06e3ce3844" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/go_Modules/Modules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_Modules/modules.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/编码/字符编码.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_web_sgg/03计算器/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_web_sgg/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_web_sgg/三种web_server方法/01web服务器handleFunc/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_web_sgg/三种web_server方法/02web服务器seveHTTP的重构/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_web_sgg/三种web_server方法/03web服务器进阶版本/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_web_sgg/三种web_server方法/04web/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里巴巴/烦人的广告.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/继承_封装_多态/简单计算器的实现.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +21,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/并发&amp;闭包/闭包与函数数组.go">
+        <entry file="file://$PROJECT_DIR$/go_web_sgg/三种web_server方法/01web服务器handleFunc/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/并发&amp;闭包/并发与闭包的问题解决方案.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="106">
+              <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,44 +41,86 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/并发&amp;闭包/匿名函数与闭包.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-437">
+              <caret line="82" column="56" selection-start-line="82" selection-start-column="56" selection-end-line="82" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面向对象/继承_封装_多态/简单计算器的实现.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go_web_sgg/03计算器/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go_web_sgg/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="19" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go_web_sgg/三种web_server方法/02web服务器seveHTTP的重构/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go_web_sgg/三种web_server方法/03web服务器进阶版本/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="31" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/go.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1596">
-                <caret line="153" selection-start-line="153" selection-end-line="153" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/go_Modules/Modules">
+        <entry file="file://$PROJECT_DIR$/go_web_sgg/三种web_server方法/04web/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="409">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#14#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/go_Modules/modules.go">
+        <entry file="file://C:/Go/src/net/http/server.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="184">
+              <caret line="2445" column="35" selection-start-line="2445" selection-start-column="28" selection-end-line="2445" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -92,6 +133,11 @@
         <option value="Go File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HandlerFunc</find>
+    </findStrings>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -110,14 +156,24 @@
         <option value="$PROJECT_DIR$/编码/字符编码.go" />
         <option value="$PROJECT_DIR$/go_Modules/modules.go" />
         <option value="$PROJECT_DIR$/go_Modules/Modules" />
+        <option value="$PROJECT_DIR$/go_web_sgg/web_02/main.go" />
+        <option value="$PROJECT_DIR$/go_web_sgg/03计算器/main.go" />
+        <option value="$PROJECT_DIR$/阿里巴巴/烦人的广告.go" />
+        <option value="$PROJECT_DIR$/go_web_sgg/main.go" />
+        <option value="$PROJECT_DIR$/面向对象/继承_封装_多态/简单计算器的实现.go" />
+        <option value="$PROJECT_DIR$/go_web_sgg/01web服务器handleFunc/main.go" />
+        <option value="$PROJECT_DIR$/go_web_sgg/02web服务器seveHTTP的重构/main.go" />
+        <option value="$PROJECT_DIR$/go_web_sgg/03web服务器进阶版本/main.go" />
+        <option value="$PROJECT_DIR$/go_web_sgg/三种web_server方法/02web服务器seveHTTP的重构/main.go" />
+        <option value="$PROJECT_DIR$/go_web_sgg/三种web_server方法/04web/main.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="120" />
-    <option name="y" value="86" />
-    <option name="width" value="1390" />
-    <option name="height" value="765" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="997" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -135,6 +191,54 @@
               <item name="xdf" type="b2602c69:ProjectViewProjectNode" />
               <item name="xdf" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xdf" type="462c0819:PsiDirectoryNode" />
+              <item name="go_web_sgg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xdf" type="462c0819:PsiDirectoryNode" />
+              <item name="go_web_sgg" type="462c0819:PsiDirectoryNode" />
+              <item name="三种web_server方法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xdf" type="462c0819:PsiDirectoryNode" />
+              <item name="go_web_sgg" type="462c0819:PsiDirectoryNode" />
+              <item name="三种web_server方法" type="462c0819:PsiDirectoryNode" />
+              <item name="02web服务器seveHTTP的重构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xdf" type="462c0819:PsiDirectoryNode" />
+              <item name="go_web_sgg" type="462c0819:PsiDirectoryNode" />
+              <item name="三种web_server方法" type="462c0819:PsiDirectoryNode" />
+              <item name="03web服务器进阶版本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xdf" type="462c0819:PsiDirectoryNode" />
+              <item name="go_web_sgg" type="462c0819:PsiDirectoryNode" />
+              <item name="三种web_server方法" type="462c0819:PsiDirectoryNode" />
+              <item name="04web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xdf" type="462c0819:PsiDirectoryNode" />
+              <item name="并发&amp;闭包" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xdf" type="462c0819:PsiDirectoryNode" />
+              <item name="面向对象" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xdf" type="462c0819:PsiDirectoryNode" />
+              <item name="面向对象" type="462c0819:PsiDirectoryNode" />
+              <item name="继承_封装_多态" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,11 +252,17 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="F:/china_cn_10010" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PaChong" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\project\src\xdf\go_web_sgg\三种web_server方法" />
+      <recent name="F:\project\src\xdf\编码" />
+      <recent name="F:\project\src\xdf\go_web_sgg" />
+      <recent name="F:\project\src\xdf" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\project\src\xdf" />
     </key>
@@ -169,13 +279,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 字符编码.go">
-    <configuration name="go build 并发与闭包的问题解决方案.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build main.go (4)">
+    <configuration name="go build 简单计算器的实现.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="xdf" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/并发&amp;闭包/并发与闭包的问题解决方案.go" />
-      <package value="xdf" />
+      <filePath value="$PROJECT_DIR$/面向对象/继承_封装_多态/简单计算器的实现.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -210,8 +319,7 @@
       <module name="xdf" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/并发&amp;闭包/main.go" />
-      <package value="xdf" />
+      <filePath value="$PROJECT_DIR$/go_web_sgg/02web服务器seveHTTP的重构/main.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -219,30 +327,46 @@
       <module name="xdf" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main.go" />
-      <package value="xdf" />
+      <filePath value="$PROJECT_DIR$/go_web_sgg/03计算器/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="xdf" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go_web_sgg/三种web_server方法/04web/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="xdf" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go_web_sgg/03web服务器进阶版本/main.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 字符编码.go" />
-        <item itemvalue="Go Build.go build 并发与闭包的问题解决方案.go" />
+        <item itemvalue="Go Build.go build main.go (4)" />
+        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build 简单计算器的实现.go" />
         <item itemvalue="Go Build.go build main.go (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12868632" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16085792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18271954" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14447592" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,47 +386,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/并发&amp;闭包/匿名函数与闭包.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-691">
-          <caret line="82" column="56" selection-start-line="82" selection-start-column="56" selection-end-line="82" selection-end-column="56" />
-          <folding>
-            <element signature="e#14#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/并发&amp;闭包/闭包与函数数组.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/并发&amp;闭包/并发与闭包的问题解决方案.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Go/src/fmt/print.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -317,10 +400,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="392">
+            <caret line="153" selection-start-line="153" selection-end-line="153" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发&amp;闭包/闭包与函数数组.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/go_Modules/Modules">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/阿里巴巴/烦人的广告.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#14#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发&amp;闭包/并发与闭包的问题解决方案.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发&amp;闭包/匿名函数与闭包.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="82" column="56" selection-start-line="82" selection-start-column="56" selection-end-line="82" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -331,13 +479,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/go.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1596">
-            <caret line="153" selection-start-line="153" selection-end-line="153" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/go_web_sgg/03计算器/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象/继承_封装_多态/简单计算器的实现.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go_web_sgg/三种web_server方法/01web服务器handleFunc/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go_web_sgg/三种web_server方法/03web服务器进阶版本/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/net/http/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="2445" column="35" selection-start-line="2445" selection-start-column="28" selection-end-line="2445" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go_web_sgg/三种web_server方法/02web服务器seveHTTP的重构/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go_web_sgg/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go_web_sgg/三种web_server方法/04web/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#14#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
